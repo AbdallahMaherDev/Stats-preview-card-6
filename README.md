@@ -18,13 +18,13 @@ HTML5
 
 CSS3 (Flexbox & Grid for layout)
 
-git clone ([https://github.com/AbdallahMaherDev/ReSultS-SUmmary-ComponenT-1](https://github.com/AbdallahMaherDev/Stats-preview-card-6))
+git clone ([https://github.com/AbdallahMaherDev/ReSultS-SUmmary-ComponenT-1](https://github.com/AbdallahMaherDev/Stats-preview-card-6)])
 
 Open index.html in your browser to view the component.
 
 🎨 Preview
 
-Live Demo (Add a link if hosted](https://velvety-kataifi-a399ba.netlify.app/)
+Live Demo ((https://velvety-kataifi-a399ba.netlify.app/](https://peppy-souffle-b73270.netlify.app/))
 
 📬 Contact
 
