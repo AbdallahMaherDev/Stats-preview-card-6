@@ -2,7 +2,7 @@
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
+Hello! I'm Abdallah Maher, and this is a solution to the "Stats Preview Card Component" challenge from Frontend Mentor. This project is a visually appealing and responsive stats card that highlights key statistics with a modern UI.
 
 🚀 Features
 
@@ -14,13 +14,7 @@ Dynamic score representation
 
 🛠 Technologies Used
 
-HTML5
-
-CSS3 (Flexbox & Grid for layout)
-
-git clone ([https://github.com/AbdallahMaherDev/ReSultS-SUmmary-ComponenT-1](https://github.com/AbdallahMaherDev/Stats-preview-card-6)])
-
-Open index.html in your browser to view the component.
+HTML /  CSS3 (Flexbox)
 
 🎨 Preview
 
