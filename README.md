@@ -18,7 +18,7 @@ HTML /  CSS3 (Flexbox)
 
 🎨 Preview
 
-Live Demo ([(https://velvety-kataifi-a399ba.netlify.app/](https://peppy-souffle-b73270.netlify.app/)])
+Live Demo ([(https://velvety-kataifi-a399ba.netlify.app/](https://peppy-souffle-b73270.netlify.app/))
 
 📬 Contact
 
